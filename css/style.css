@@ -1,11 +1,25 @@
-/* HEADER */
+section {
+  height: 500px;
+  background-color: grey;
+  border: solid black 1px;
+}
 
-/* SIDE BAR */
+.hero {
+  background-color: #1c1d25;
+  height: 100vh;
+  color: white;
+  font-size: 40px;
+}
 
-/* CONTENT */
+footer {
+  height: 500px;
+  background-color: black;
+}
 
-/* FOOTER */
+nav {
+  display: flex;
+}
 
-/* FORMS */
-
-/* GENERAL GUBBINS */
+ul {
+  display: flex;
+}
